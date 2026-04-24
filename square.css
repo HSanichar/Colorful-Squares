@@ -11,3 +11,8 @@
     border:2px solid black;
     position: absolute;
 }
+p{
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
